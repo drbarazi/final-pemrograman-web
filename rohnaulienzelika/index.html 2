@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jobless</title>
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/modern-normalize/2.0.0/modern-normalize.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <nav class="nav">
+        <div class="container">
+            <div class="nav-brand">jobless</div>
+            <div class="menu">
+                <a class="menu-item menu-item-active" href="">Home</a>
+                <a class="menu-item" href="">Discover</a>
+                <a class="menu-item" href="">post a job</a>
+                <a class="menu-item" href="">contact us</a>
+            </div>
+            <div class="nav-ctas">
+                <a class="sign-up" href="">sign-up</a>
+            </div>
+        </div>
+    </nav>
+    <div class="container">
+        <div class="hero">
+            <h1 class="hero-headline">welcome to the stellaron hunters</h1>
+            <p class="hero-subheadline">the galaxy is vast beyond compare,
+                containing an infiniti number of possibilities</p>
+            </div class="hero-ctas">
+                 <a class="cta-primary" href="">Explore the space</a>
+                 <a class="cta-secondary" href="">How It Works</a>
+            </div>
+        </div>
+        <div class="jobs">
+            <h2 class="jobs-headline">featured quest</h2>
+            </div class="jobs-list">
+                 <a href="#" class="job">
+                     <header class="job-png" class="job-header">
+                     <1mg src="figma-logo-pmg" class="job-logo">
+                        <div class="job-neta">
+                            <h3 class="job-title"> front end devoloper</h3>
+                            <p class="job-company">Figma</p>
+                        </div>
+                    </header>
+                    <p class="job-description">We are looking for an experienced front-end devolover to join our team</p>
+                    <hr class="job-devider">
+                    <footer class="job-footer">
+                        <div class="job-tags">
+                            <span class="job=-tag">Rust</span>
+                        </div>                
+                           <div class="job-salary">$70.000 - $90.000</div>
+                        </footer>
+                 </a>
+                 
+                 <a href="" class="job">
+                    <header class="job-header">
+                     <1mg src="facebook-jpg" class="job-logo">
+                          <div class="job-neta">
+                            <h3 class="job-title">data scientist</h3>
+                            <p class="job-company">facebook</p>
+                        </div>
+                    </header>
+                    <p class="job-description">we are seeking a data scientist to join our team.</p>
+                    <hr class="job-devinder">
+                    <footer class="job-tags">
+                        <div class="job-tag">
+                            <span class="job-tag">pithon</span> 
+                        </div>
+                            <div class="job-salary">$70.0000 -$90.000</div>
+                    </footer>
+                </a>
+                
+                <a href="" class="job">
+                    <header class="job-header">
+                    <1mg scr="verce-logo-png" class="job-logo">
+                        <div class="job-header">
+                            <img src="verce-logo.png" class="job-logo">
+                                 <div class="job-neta">
+                                    <h3 class="job-title">Technical writer</h3>
+                                    <p class="job-company">Vercel</p>
+                                 </div> 
+                            </header>
+                            <p class="job-description">We are seeking a technical writer to join our team.</p>
+                            <hr class="job-devider">
+                            <footer class="job-footer">
+                                <div class="job-tags">
+                                    <span class="job-tag">Documentation</span>
+                                </div>
+                                     <div class="job-salary">$70.000 - $90.000</div>
+                            </footer>
+                        </a>    
+            </div>
+        </div>    
+</body>
+</html>
